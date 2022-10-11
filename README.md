@@ -20,7 +20,6 @@
 <img src="css.jpg" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="js.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="node.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="pyhton.png" alt="Girl in a jacket" 
 <img src="markdown.png" alt="Girl in a jacket" width="50" height="45"> &nbsp;&nbsp;
 <img src="yaml1.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="NGINX.png" alt="Girl in a jacket" width="40" height="40">
